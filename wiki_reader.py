@@ -1,15 +1,12 @@
 import os
 import requests
-import sys
 import pyttsx3
 import re
 import urllib.request
-import time
 from bs4 import BeautifulSoup
 import numpy as np
 import pandas as pd
 from urllib.request import urlopen
-import keyboard
 
 
 if os.name == 'posix':
